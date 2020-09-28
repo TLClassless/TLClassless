@@ -2,7 +2,7 @@
 ## Developer 👨🏻‍💻
 Currently working on an App called [Odyssey](https://github.com/TLClassless/Odyssey) and developing websites for clients, if you wanna hire me, my soul is up for sale at [humanthat.codes](http://humanthat.codes)
 ## Designer  👨🏻‍🎨
-I have done my fair share of Graphic Design over the years, helping to create brand profiles for content creators, applications, 
+I have done my fair share of Graphic Design over the years, helping to create brand profiles for content creators, applications, and small businesses
 ## Cool Guy 😎
 >"You're okay I guess" - Everyone
 
