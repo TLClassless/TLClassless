@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hey, I'm Ben 👋
 ## Developer 👨🏻‍💻
 Currently working on an App called [Odyssey](https://github.com/TLClassless/Odyssey) and developing websites for clients, if you wanna hire me, my soul is up for sale at [humanthat.codes](http://humanthat.codes)
