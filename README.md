@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# Hey, I'm Ben 👋
+## Developer 👨🏻‍💻
+Currently working on an App called [Odyssey](https://github.com/TLClassless/Odyssey) and developing websites for clients, if you wanna hire me, my soul is up for sale at [humanthat.codes](http://humanthat.codes)
+## Designer  👨🏻‍🎨
+I have done my fair share of Graphic Design over the years, helping to create brand profiles for content creators, applications, 
+## Cool Guy 😎
+>"You're okay I guess" - Everyone
+
 <!--
 **TLClassless/TLClassless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
