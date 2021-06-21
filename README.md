@@ -1,6 +1,6 @@
 # Hey, I'm Ben 👋
 ## Developer 👨🏻‍💻
-Currently working on an App called [Odyssey](https://github.com/TLClassless/Odyssey), a social media platform called [Blink](https://github.com/TLClassless/Blink) and developing websites for clients. To hire me, or read a little more about me you can visit: [humanthat.codes](http://humanthat.codes)
+Currently working on an App called [Odyssey](https://github.com/TLClassless/Odyssey), a social media platform called [Blink](https://github.com/TLClassless/Blink), a currently unnamed [link sharing platform ](https://github.com/TLClassless/chainlink) and developing websites for clients. To hire me, or read a little more about me you can visit: [humanthat.codes](http://humanthat.codes)
 ## Designer  👨🏻‍🎨
 I have done my fair share of Graphic Design over the years, helping to create brand profiles for content creators, applications, and small businesses
 ## Cool Guy 😎
