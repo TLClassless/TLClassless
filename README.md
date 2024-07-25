@@ -1,6 +1,6 @@
 # Hey, I'm Ben 👋
 ## Developer 👨🏻‍💻
-Currently working on an App called [Odyssey](https://github.com/TLClassless/Odyssey) and making websites for clients @ [Maxweb](https://maxwebsolutions.co.uk)
+Currently making websites for clients @ [Maxweb](https://maxwebsolutions.co.uk)
 ## Designer  👨🏻‍🎨
 I have done my fair share of Graphic Design over the years, helping to create brand profiles for content creators, applications, and small businesses
 ## Cool Guy 😎
