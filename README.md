@@ -1,6 +1,8 @@
 # Hey, I'm Ben 👋
 ## Developer 👨🏻‍💻
 Currently making websites for clients Freelance and @ [Maxweb](https://maxwebsolutions.co.uk)
+
+Was a Professional Developer pre-AI, craziness.
 ## Designer  👨🏻‍🎨
 I have done my fair share of Graphic Design over the years, helping to create brand profiles for content creators, applications, and small businesses
 ## Cool Guy 😎
